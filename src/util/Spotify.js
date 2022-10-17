@@ -1,4 +1,4 @@
-const clientId = '7cc99188e066479682c5e92b35af5d4a';
+const clientId = process.env.REACT_APP_clientId;
 const redirectUri = "https://spotted-war.surge.sh/";
 
 let accessToken;
