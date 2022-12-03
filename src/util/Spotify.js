@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_clientId;
-const redirectUri = "https://spotted-war.surge.sh/";
+const redirectUri = "https://ja-mm-ing.netlify.app";
 
 let accessToken;
 
