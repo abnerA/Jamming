@@ -1,4 +1,4 @@
-# Album Music
+# Music Album
 
 En este proyecto de *CodeCademy* utilizamos `React` y la API de *Spotify* para crear nuestros propios álbumes personalizado de música y artistas favoritos. 
 
@@ -6,7 +6,7 @@ En este proyecto de *CodeCademy* utilizamos `React` y la API de *Spotify* para c
 
 ## Objetivo
 
-Mediante [Spotify for Developers](https://developer.spotify.com/) nos conectamos a su API y mediante nuestra propia cuenta de *Spotify* nos brinda la oportunidad buscar esa música o ese artista que nos encanta, creamos el nombre para nuestro nuevo álbum personalizado y comenzamos a agregar nuestras pistas favoritas 🎵🎶. Estás a su vez se guardan automáticamente en nuestra cuenta personal de *Spotify.*
+Mediante [Spotify for Developers](https://developer.spotify.com/) nos conectamos a su API y mediante nuestra propia cuenta de *Spotify* nos brinda la oportunidad buscar esa música o ese artista que nos encanta, creamos el nombre para nuestro nuevo álbum personalizado y comenzamos a agregar nuestras pistas favoritas 🎵🎶. Estás a su vez, se guardan automáticamente en nuestra cuenta personal de *Spotify.*
 
 ## Scripts Disponibles 
 
