@@ -2,11 +2,11 @@
 
 En este proyecto de *CodeCademy* utilizamos `React` y la API de *Spotify* para crear nuestros propios álbumes personalizado de música y artistas favoritos. 
 
-[![Background the page](./img/AlbumMusic.PNG)](https://ja-mm-ing.netlify.app/)
+[![Background the page](./public/img/AlbumMusic.PNG)](https://ja-mm-ing.netlify.app/)
 
 ## Objetivo
 
-Mediante *[Spotify for Developers]*(https://developer.spotify.com/) nos conectamos a su API y mediante nuestra propia cuenta de *Spotify* nos brinda la oportunidad buscar esa música o ese artista que nos encanta, creamos el nombre para nuestro nuevo álbum personalizado y comenzamos a agregar nuestras pistas favoritas 🎵🎶. Estás a su vez se guardan automáticamente en nuestra cuenta personal de *Spotify.*
+Mediante [Spotify for Developers](https://developer.spotify.com/) nos conectamos a su API y mediante nuestra propia cuenta de *Spotify* nos brinda la oportunidad buscar esa música o ese artista que nos encanta, creamos el nombre para nuestro nuevo álbum personalizado y comenzamos a agregar nuestras pistas favoritas 🎵🎶. Estás a su vez se guardan automáticamente en nuestra cuenta personal de *Spotify.*
 
 ## Scripts Disponibles 
 
@@ -35,13 +35,13 @@ Si no estás satisfecho con la herramienta de compilación y las opciones de con
 
 ## Requisitos
 
-Para poder usar las funciones de está aplicación, tendrás que iniciar sección para crear tú integración y administrar tus credenciales en el siguiente enlace: (https://developer.spotify.com/dashboard/login).
+Para poder usar las funciones de está aplicación, tendrás que iniciar sección para crear tú integración y administrar tus credenciales en el siguiente enlace: https://developer.spotify.com/dashboard/login.
 
 Luego en el archivo **.env.local** tendrás que poner tu `Client ID` y también tú **Redirect URIs** de configuración. 👌
 
 ## Créditos
 
-• [Spotify for Developers](https://developer.spotify.com/)
-• [CodeCademy](https://www.codecademy.com/).
+- [Spotify for Developers](https://developer.spotify.com/)
+- [CodeCademy](https://www.codecademy.com/).
 
 👋🏼👋🏼
