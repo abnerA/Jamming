@@ -1,5 +1,5 @@
 const clientId = process.env.REACT_APP_clientId;
-const redirectUri = "https://ja-mm-ing.netlify.app";
+const redirectUri = process.env.REACT_APP_redirect_Uri;
 
 let accessToken;
 
